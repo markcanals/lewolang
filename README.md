@@ -1,2 +1,3 @@
 # lewolang
-Plataforma de aprendizaje del idioma inglés para hispanohablantes. Para más información visitar www.lewolang.com
+Plataforma de aprendizaje de idiomas para hispanohablantes que quieren aprender inglés. 
+Para más información visitar www.lewolang.com
